@@ -7,6 +7,8 @@ description: Designs and implements UI/UX using React, Next.js, and Tailwind CSS
 
 Inspired by Vercel v0 design principles: clean, minimal, functional, accessible.
 
+> ⚠️ **SIEMPRE** leer [reference/brand-identity.md](reference/brand-identity.md) antes de crear cualquier componente visual. Toda UI debe respetar la identidad de marca Quanture: colores `#002D72` (azul), `#FFD700` (amarillo), tipografía sans-serif, logo sin modificaciones.
+
 ## Stack
 
 - **Framework**: Next.js 14+ (App Router)
@@ -133,6 +135,7 @@ export function ContactForm() {
 
 ## Advanced reference
 
+- **Identidad de marca Quanture** (obligatorio): See [reference/brand-identity.md](reference/brand-identity.md)
 - **Design tokens**: See [reference/tokens.md](reference/tokens.md)
 - **Component library**: See [reference/components.md](reference/components.md)
 - **Animations**: See [reference/animations.md](reference/animations.md)
